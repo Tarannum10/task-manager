@@ -3,7 +3,7 @@
 A full-stack Task Management web application built with **React (Vite)** for the frontend and **Node.js + Express + MongoDB** for the backend.
 
 ## 🚀 Live Demo  
-🔗 [Manage your Tasks]([https://mindhere.netlify.app/](https://spontaneous-bubblegum-6e278c.netlify.app/))
+🔗  [Play the Game](https://spontaneous-bubblegum-6e278c.netlify.app/)
 
 ## 🚀 Features
 - Create, update, and delete tasks
